@@ -14,7 +14,7 @@ ___
      
 ___
 
-- 1.0 Network Fundamentals      20%
+**- 1.0 Network Fundamentals      20%**
 - 
     - 1.1 Explain the role and function of network components
   
@@ -28,9 +28,11 @@ ___
             
             The lists three common types of server software.
 
-            Email  The email server runs email server software. Clients use mail client software, such as Microsoft Outlook, to access email on the server.
-            Web    The web server runs web server software. Clients use browser software, such as Windows Internet Explorer, to access web pages on the server.
-            File   The file server stores corporate and user files in a central location. The client devices access these files with client software such as the Windows File Explorer.
+            **Email**  The email server runs email server software. Clients use mail client software, such as Microsoft Outlook, to access email on the server.
+
+            **Web**   The web server runs web server software. Clients use browser software, such as Windows Internet Explorer, to access web pages on the server.
+
+            **File**   The file server stores corporate and user files in a central location. The client devices access these files with client software such as the Windows File Explorer.
 
                    
             
