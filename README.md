@@ -23,9 +23,8 @@
             
             The table lists three common types of server software.
             
-            ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/568a61ca-9bff-46ca-ab00-00e32ffbbbea/Untitled.png)
             
-            [Untitled](https://www.notion.so/ede6328616b64321b74bc6fa77835994)
+            
             
         
         - 1.1.a Routers
