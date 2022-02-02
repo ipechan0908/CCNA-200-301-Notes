@@ -1,7 +1,7 @@
 # CCNA-200-301-Notes
 
 # 200-301 CCNA Exam: Cisco Certified Network Associate
-___
+
 [200-301-CCNA.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d125e917-cdd3-4ff1-915e-299a8ef38464/200-301-CCNA.pdf)
 
 - **Exam Description**
@@ -11,10 +11,10 @@ ___
     The Cisco Certified Network Associate v1.0 (CCNA 200-301) exam is a 120-minute exam associated with the CCNA certification. This exam tests a candidate's knowledge and skills related to network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability. The course, Implementing and Administering Cisco Solutions (CCNA), helps candidates prepare for this exam.
     
     The following topics are general guidelines for the content likely to be included on the exam. However, other related topics may also appear on any specific delivery of the exam. To better reflect the contents of the exam and for clarity purposes, the guidelines below may change at any time without notice.
-     
-___
+    
 
-** 1.0 Network Fundamentals      20%**
+
+1.0 Network Fundamentals      20%
  
      1.1 Explain the role and function of network components
   
