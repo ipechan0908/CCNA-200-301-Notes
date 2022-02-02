@@ -14,11 +14,11 @@ ___
      
 ___
 
-**- 1.0 Network Fundamentals      20%**
-- 
-    - 1.1 Explain the role and function of network components
+** 1.0 Network Fundamentals      20%**
+ 
+     1.1 Explain the role and function of network components
   
-        - Host Roles.
+        Host Roles.
             
             Hosts can be called end devices. Some hosts are also called clients.
             
